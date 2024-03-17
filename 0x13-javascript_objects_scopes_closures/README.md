@@ -4,9 +4,6 @@ This is the second javascript project and i learned a lots about the javascritp 
 
 **What you should learn from this project**
 
-       At the end of this project you are expected to be able to explain to
-       anyone, without the help of Google:
-
 * Why Javascript programming is amazing (don’t forget to tweet today, with the
   hashtag #javascriptisamazing :))
 * How to create an object in Javascript
@@ -21,3 +18,4 @@ This is the second javascript project and i learned a lots about the javascritp 
 DONE BY:
 Gatjuat Wicteat Riek
 gatjuatriek@gmail.com
+For collaboration please contact me through the above email and have funs together
