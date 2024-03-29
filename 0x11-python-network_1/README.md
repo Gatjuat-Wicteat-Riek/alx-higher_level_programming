@@ -45,4 +45,5 @@ How to manipulate data from an external service.
 
 ## Collaborate
 
-To collaborate, reach me through my email address gatjuatriek@gmail.com.
+To collaborate, reach me through my email address gatjuatriek@gmail.com and enjoy funs with me.
+Thanks
